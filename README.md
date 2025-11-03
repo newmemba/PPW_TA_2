@@ -4,7 +4,7 @@
 Sebelum perubahan:
 <img width="1920" height="1200" alt="Screenshot 2025-11-03 191147" src="https://github.com/user-attachments/assets/d38cd2ef-89f7-4333-9595-17e3fc5fc987" />
 
-Langkah-langkah:
+# Langkah-langkah:
 
 
 # 1. Inisialisasi dan penambahan File
@@ -12,7 +12,7 @@ Langkah-langkah:
 <img width="974" height="586" alt="image" src="https://github.com/user-attachments/assets/a2940014-9919-4964-93e9-ff9141120e67" />
 
 
-#2. git add file dan commit -m "Menambahkan file HTML"
+# 2. git add file dan commit -m "Menambahkan file HTML"
 
 <img width="813" height="580" alt="image" src="https://github.com/user-attachments/assets/e7aa5279-bbe9-473c-8c5e-8988f31baebf" />
 
