@@ -1,6 +1,9 @@
 # Nama : Hanif Dhiah Ulhaq
 # NPM  : 2315061089
 
+
+Ini adalah Web HTML dan CSS saya tentang portofolio saya, disini saya ingin mencoba untuk melakukan beberapa percobaan uuntuk menghubungkan antara github dengan repository local saya dan melakukan beragam perubahan dan commit di setiap perubahannya, kemudian juga membuat sebuah branch untuk melakukan percobaan dan melakukan merge untuk mengabungkan branch percobaan dengan master, dan kemudian melakukan push ke github
+
 Sebelum perubahan:
 <img width="1920" height="1200" alt="Screenshot 2025-11-03 191147" src="https://github.com/user-attachments/assets/d38cd2ef-89f7-4333-9595-17e3fc5fc987" />
 
